@@ -1,0 +1,23 @@
+.img1 {
+border:5px solid rgb(0, 0, 0);
+width: 541px;
+padding: 5px;
+}
+
+.row1{
+    display: flex
+}
+
+
+.img {
+    border:5px solid rgb(0, 0, 0);
+    width: 541px;
+    padding: 5px;
+}
+
+
+.txt {
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
